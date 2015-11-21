@@ -1,0 +1,299 @@
+body {
+background-color: #070716;
+height:100%;
+font-size: 1em;
+line-height: 1.4;
+margin:0;
+display: block;
+padding: 25px;
+}
+
+form{
+text-align: center;
+}
+
+html, button, input, select, textarea {
+color: #222;
+font-family: ff-clan-web-pro-wide,sans-serif;
+}
+
+.focused-view {
+border: 0;
+margin-top: 0;
+margin-top: 20px;
+margin-top: 20px;
+margin-top: 20px;
+}
+
+.section-dark{
+color: #fff;
+}
+
+section{
+display: block;
+}
+
+*{
+box-sizing: border-box;
+}
+
+div{
+display: block;
+}
+
+.yui3-g{
+letter-spacing: -.31em;
+text-redering: optimizespeed;
+}
+
+.signin-content{
+margin-top: 0 ;
+margin-right: auto;
+display: block;
+max-width: 620px;
+}
+
+.yui3-u-5-12{
+zoom:1;
+letter-spacing: normal;
+word-spacing: normal;
+vertical-align: top;
+text-rendering: auto;
+}
+
+.yui3-u-m-1 {
+    display: block;
+    width: 100%;
+}
+
+p{
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+p {
+    line-height: 0.1em;
+    font-size: 11px;
+    font-family: ff-clan-web-pro-wide,sans-serif;
+    font-weight: 400;
+}
+
+p span { 
+    background:#00001a; 
+    padding:0 10px; 
+}
+
+.center {
+    text-align: center;
+}
+
+.focused-view-subtitle.border-center:after {
+    margin-top: -12px;
+}
+
+.uber-logo-container {
+    margin-bottom: 10px;
+}
+
+.uber-logo, .light .down-page .uber-logo {
+    display: inline-block;
+    width: 167px;
+    height: 23px;
+    background: transparent url(https://d1a3f4spazzrp4.cloudfront.net/web-fresh/global/logo-web-light@1x.png) no-repeat left top;
+    background-size: 167px 23px;
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+}
+
+.ir {
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+}
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+}
+
+.focused-view-subtitle {
+    margin-bottom: 30px;
+    font-size: 17px;
+    color: #c2c2c2;
+    text-transform: uppercase;
+width:70%;
+}
+
+.btn-driver:hover {
+    background-color: #c2c2c2;
+    border: 2px solid #c2c2c2;
+}
+
+.btn-filled {
+    background-color: #1fbad6;
+}
+
+.btn {
+    padding: 16px 10px;
+    color: #fff;
+    border-radius: 1.5px;
+font-size: 14px;
+width:70%;
+}
+
+.focused-view-subtitle.border-center {
+    margin-bottom: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+element.style {
+}
+@media (max-width: 500px)
+.focused-view-subtitle.border-center {
+    margin-bottom: 22px;
+}
+@media (max-width: 500px)
+.focused-view-subtitle {
+    font-size: 11px;
+}
+.focused-view-subtitle {
+    margin-bottom: 30px;
+}
+.focused-view-subtitle {
+    font-size: 17px;
+    color: #c2c2c2;
+    text-transform: uppercase;
+}
+.center {
+    text-align: center;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.border-center {
+    margin-bottom: 12px;
+}
+@media screen and (max-width: 500px)
+p {
+    line-height: 20px;
+}
+@media screen and (max-width: 500px)
+p, ul {
+    font-size: 11px;
+}
+p {
+    line-height: 27px;
+}
+p, ul {
+    font-size: 14px;
+}
+p, a, h1, h2, h3, h4, h5 {
+    margin: 0;
+    padding: 0;
+}
+p, a, h1, h2, h3, h4, h5, li, select, option, input, button, label {
+    font-family: ff-clan-web-pro-wide,sans-serif;
+    font-weight: 400;
+}
+p, pre {
+    margin: 1em 0;
+}
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheetp {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+Inherited from article.signin-content.yui3-u-5-12.yui3-u-m-1.yui3-u-s-1
+.yui3-u-1, .yui3-u-1-2, .yui3-u-1-3, .yui3-u-2-3, .yui3-u-1-4, .yui3-u-3-4, .yui3-u-1-5, .yui3-u-2-5, .yui3-u-3-5, .yui3-u-4-5, .yui3-u-1-6, .yui3-u-5-6, .yui3-u-1-8, .yui3-u-3-8, .yui3-u-5-8, .yui3-u-7-8, .yui3-u-1-12, .yui3-u-5-12, .yui3-u-7-12, .yui3-u-11-12, .yui3-u-1-24, .yui3-u-5-24, .yui3-u-7-24, .yui3-u-11-24, .yui3-u-13-24, .yui3-u-17-24, .yui3-u-19-24, .yui3-u-23-24 {
+    display: inline-block;
+    zoom: 1;
+    letter-spacing: normal;
+    word-spacing: normal;
+    vertical-align: top;
+    text-rendering: auto;
+}
+Inherited from div.yui3-g
+.yui3-g {
+    letter-spacing: -.31em;
+    text-rendering: optimizespeed;
+}
+Inherited from section.focused-view.section-dark
+.section-dark {
+    color: #FFF;
+}
+Inherited from body.dark.focused
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+Inherited from html.js.flexbox.canvas.canvastext.webgl.touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths
+html, button, input, select, textarea {
+    color: #222;
+}
+html, button, input, select, textarea {
+    font-family: sans-serif;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::after element
+@media (max-width: 500px)
+.focused-view-subtitle.border-center:after {
+    margin-top: -12px;
+}
+.border-center:after {
+    background: #53535C;
+    content: "";
+    display: block;
+    height: 1px;
+    margin-top: -12px;
+}
+.border-center{
+margin-left: 94px;
+}
+Pseudo ::selection element
+::selection {
+    /* background: #b3d4fc; */
+    /* text-shadow: none; */
+}

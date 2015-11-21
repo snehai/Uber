@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.css">
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+    <body>
+   <form class="form" role="form" name="signupForm" method="post" action="/riderSignup">
+ <legend><a>CREATE A NEW ACCOUNT</a></legend>
+            <h4>ACCOUNT</h4>
+            EMAIL:
+            <input class="form-control input-lg" name="email" placeholder="name@example.com" type="email" required/>
+            PASSWORD:
+            <input class="form-control input-lg" name="password" placeholder="At least 5 characters" type="password" required/>
+            <div class="row">
+                <div class="col-xs-6 col-md-6">
+                    <input class="form-control input-lg" name="firstname" placeholder="First Name" type="text" autofocus required />
+                </div>
+                <div class="col-xs-6 col-md-6">
+                    <input class="form-control input-lg" name="lastname" placeholder="Last Name" type="text" required/><br>
+                </div>
+                <div class="col-xs-6 col-md-6">
+                <input class="form-control input-lg" name="address" placeholder="address" type="text" required/>
+                <input class="form-control input-lg" name="city" placeholder="city" type="text" required/>
+                <input class="form-control input-lg" name="state" placeholder="state" type="text" required/>
+                <input class="form-control input-lg" name="zipCode" placeholder="zipCode" type="text" required/>
+                </div>
+            </div>
+            <input class="form-control input-lg" name="mobileNumber" placeholder="(201) 555-5555" type="text" required/>
+            CREDIT CARD NUMBER <input class="form-control input-lg" name="creditcardNumber" placeholder="1234 5678 9012 3456" type="text" required/>
+           <br />
+            <button class="btn btn-lg btn-primary btn-block signup-btn" type="submit">
+                Sign Up</button>
+            </form>
+ 
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js">
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    </body>
+    
+</html>

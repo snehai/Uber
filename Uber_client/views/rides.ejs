@@ -1,0 +1,25 @@
+<div class="container">
+ <strong>My Trips</strong>
+ <table class="table">
+    <thead>
+      <tr>
+        <th>Pickup</th>
+        <th>Driver</th>
+         <th>Car</th>
+        <th>Fare</th>
+        <th>City</th>
+         <th>Payment Method</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr ng-repeat="ride in rides">
+      <td>{{ ride.ridedate }} </td>
+        <td>{{ ride.firstname }} </td>
+        <td>car </td>
+        <td>fare</td>
+        <td>{{ ride.dropofflocation }} </td>
+        <td>payment </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

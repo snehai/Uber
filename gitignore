@@ -1,0 +1,13 @@
+.classpath
+.project
+*.class
+.metadata
+.DS_Store
+*.pyc
+*build/
+*.idea/
+*.iml
+RemoteSystemsTempFiles
+nbproject/private/private.properties
+/HTML5Application/nbproject/private/
+/nbproject/private/
